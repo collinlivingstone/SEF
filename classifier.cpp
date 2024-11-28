@@ -7,3 +7,11 @@ void train() {
 
 }
 
+
+//Predict function added
+void predict() {
+
+	printf("predict\n");
+
+}
+
